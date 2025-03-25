@@ -6,6 +6,8 @@ int main(){
     int populacao, turistico, populacao1, turistico1;
     float area, pib, area1, pib1;
 
+    printf(" Agora quero que você me fale os dados da primeira carta\n ");
+    
     printf("Por favor insira o estado da carta:\n");
     scanf(" %[^\n]", estado);
 
